@@ -5,15 +5,16 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonielbbarreto@gmail.com)](mailto:jonielbbarreto@gmail.com)
 
 ###  About me 👋
-:man_student: Professional Master in Electrical and Computer Engineering and Technologist in Industrial Mechatronics.
+:man_student: PhD student in Electronic and Computing Engineering (PG/EEC) by Instituto Tecnológico de Aeronáutica - ITA 
 
-:briefcase: Currently substitute professor at the Universidade Federal do Ceara - campus Sobral with more than 3 years of experience in Research and Technological Development projects. Has worked in the areas of machine learning, computer vision and data science. Has solid knowledge of statistics, predictive and classification models, and programming with Python and C++ languages.
+:briefcase: Master degree in Electrical and Computer Engineering (UFC) and Technologist in Industrial Mechatronics (IFCE). 
+I worked as substitute professor at the Universidade Federal do Ceara - campus Sobral and I have more than 5 years of experience in Research and Technological Development projects. I've been working in the areas of machine learning, computer vision and data science and I have solid knowledge of statistics, predictive and classification models, and data visualization.
 
 ### Knowledges :open_book:
-- Data processing (mining, cleaning and information extraction)
+- Research projects with artificial intelligence and computer vision;
+- Data processing (mining, cleaning and information extraction) and visualization (Matplotlib, Seaborn, Kibana)
 - Libraries (Scikit-learn, Numpy, OpenCV, Tensorflow, among others)
 - Advanced Excel
-- DevOps
 
 ### Programming Languages :computer:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&link=https://github.com/jonielbarreto/)](https://github.com/jonielbarreto) 
