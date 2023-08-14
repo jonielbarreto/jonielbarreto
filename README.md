@@ -7,13 +7,13 @@
 ###  About me 👋
 :man_student: PhD student in Electronic and Computing Engineering (PG/EEC) by Instituto Tecnológico de Aeronáutica - ITA 
 
-:briefcase: Master degree in Electrical and Computer Engineering (UFC) and Technologist in Industrial Mechatronics (IFCE). 
-I worked as substitute professor at the Universidade Federal do Ceara - campus Sobral and I have more than 5 years of experience in Research and Technological Development projects. I've been working in the areas of machine learning, computer vision and data science and I have solid knowledge of statistics, predictive and classification models, and data visualization.
+:briefcase: PhD student in Electronic and Computing Engineering (PG/EEC) by Instituto Tecnológico de Aeronáutica - ITA. Master's degree in Electrical and Computer Engineering and Technologist in Industrial Mechatronics. I worked as substitute professor at the Universidade Federal do Ceara - campus Sobral and I have years of experience in Research and Technological Development projects.
+I've been working in the areas of machine learning, computer vision and data science and I have solid knowledge of statistics, predictive and classification models, and data visualization.
 
 ### Knowledges :open_book:
 - Research projects with artificial intelligence and computer vision;
 - Data processing (mining, cleaning and information extraction) and visualization (Matplotlib, Seaborn, Kibana)
-- Libraries (Scikit-learn, Numpy, OpenCV, Tensorflow, among others)
+- Libraries (Scikit-learn, OpenCV, Tensorflow, PyTorch, among others)
 - Advanced Excel
 
 ### Programming Languages :computer:
